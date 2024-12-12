@@ -10,6 +10,3 @@ def sample():
     sample_df = pd.DataFrame(data)
 
     print(sample_df.head())
-
-if __name__ == "__main__":
-    sample()
